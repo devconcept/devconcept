@@ -4,9 +4,11 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
 </picture>
 
-# Hi, I'm devconcept 👋
+<h1 align="center">Hi, I'm devconcept 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&lines=Open+sorcerer+%F0%9F%A7%99;All+things+JavaScript;Now+building+with+AI)](https://github.com/devconcept)
+<p align="center">
+  <a href="https://github.com/devconcept"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Open+sorcerer+%F0%9F%A7%99;All+things+JavaScript;Now+building+with+AI" alt="Typing SVG" /></a>
+</p>
 
 Passionate developer and open sorcerer 🧙. I started coding at the age of twelve and have loved writing code ever since.
 
