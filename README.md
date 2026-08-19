@@ -10,7 +10,6 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 ## Featured projects
 
 - [**multer-gridfs-storage**](https://github.com/devconcept/multer-gridfs-storage) — 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDB.
-- [**ng-shopping-cart**](https://github.com/devconcept/ng-shopping-cart) — 🛒 An Angular component library to create shopping carts.
 
 ## Connect
 
