@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm devconcept 👋
 
-<!--
-**devconcept/devconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate developer and open sorcerer 🧙. I started coding at the age of twelve and have loved writing code ever since.
 
-Here are some ideas to get you started:
+- 🔭 I mostly work with **TypeScript**, **Node.js**, **MongoDB**, and **Angular**.
+- 🌱 Always learning something new across the full stack.
+- 💬 Ask me about Node.js file uploads, GridFS, and Angular component libraries.
+- 📍 Based in Bulgaria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- [**multer-gridfs-storage**](https://github.com/devconcept/multer-gridfs-storage) — 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDB.
+- [**ng-shopping-cart**](https://github.com/devconcept/ng-shopping-cart) — 🛒 An Angular component library to create shopping carts.
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-devconcept-181717?logo=github)](https://github.com/devconcept)
+
+![Profile views](https://komarev.com/ghpvc/?username=devconcept&color=blue)
