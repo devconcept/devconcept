@@ -2,10 +2,9 @@
 
 Passionate developer and open sorcerer 🧙. I started coding at the age of twelve and have loved writing code ever since.
 
-- 🔭 I mostly work with **TypeScript**, **Node.js**, **MongoDB**, and **Angular**.
+- 🔭 I work with all things JavaScript — **TypeScript**, **Node.js**, **Angular**, and more, plus **MongoDB**.
 - 🌱 Always learning something new across the full stack.
 - 💬 Ask me about Node.js file uploads, GridFS, and Angular component libraries.
-- 📍 Based in Bulgaria.
 
 ## Featured projects
 
