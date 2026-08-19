@@ -10,6 +10,18 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 - [**multer-gridfs-storage**](https://github.com/devconcept/multer-gridfs-storage) — 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDB.
 
+## Top languages
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devconcept&layout=compact)](https://github.com/devconcept)
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
+</picture>
+
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-devconcept-181717?logo=github)](https://github.com/devconcept)
