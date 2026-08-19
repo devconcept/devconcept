@@ -12,7 +12,7 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 ## Top languages
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devconcept&layout=compact)](https://github.com/devconcept)
+[![Top languages](https://github-readme-stats-devconcept1.vercel.app/api/top-langs/?username=devconcept&layout=compact)](https://github.com/devconcept)
 
 ## Contribution snake
 
