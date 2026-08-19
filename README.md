@@ -1,4 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
+</picture>
+
 # Hi, I'm devconcept 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&lines=Open+sorcerer+%F0%9F%A7%99;All+things+JavaScript;Now+building+with+AI)](https://github.com/devconcept)
 
 Passionate developer and open sorcerer 🧙. I started coding at the age of twelve and have loved writing code ever since.
 
@@ -22,14 +30,6 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 ## Top languages
 
 [![Top languages](https://github-readme-stats-git-master-devconcept1.vercel.app/api/top-langs/?username=devconcept&layout=compact)](https://github.com/devconcept)
-
-## Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
-</picture>
 
 ## Connect
 
