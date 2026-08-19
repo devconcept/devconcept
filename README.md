@@ -3,8 +3,17 @@
 Passionate developer and open sorcerer 🧙. I started coding at the age of twelve and have loved writing code ever since.
 
 - 🔭 I work with all things JavaScript — **TypeScript**, **Node.js**, **Angular**, and more, plus **MongoDB**.
+- 🤖 Currently focused on **AI** — building with LLMs, agents, and AI-powered developer tooling.
 - 🌱 Always learning something new across the full stack.
 - 💬 Ask me about Node.js file uploads, GridFS, and Angular component libraries.
+
+## Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## Featured projects
 
