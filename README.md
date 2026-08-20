@@ -52,8 +52,8 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
-![AVA](https://img.shields.io/badge/AVA-4B4B77?logo=ava&logoColor=white)
-![Sinon](https://img.shields.io/badge/Sinon-323330?logo=sinon&logoColor=white)
+![AVA](https://img.shields.io/badge/%F0%9F%9A%80%20AVA-4B4B77)
+![Sinon](https://img.shields.io/badge/%F0%9F%91%B4%20Sinon-323330)
 
 ## Featured projects
 
