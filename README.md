@@ -31,6 +31,7 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?logo=sap&logoColor=white)
 
 **Backend**
 
@@ -53,7 +54,7 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
 ![AVA](https://img.shields.io/badge/%F0%9F%9A%80%20AVA-4B4B77)
-![Sinon](https://img.shields.io/badge/%F0%9F%91%B4%20Sinon-323330)
+![Sinon](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F%20Sinon-323330)
 
 ## Featured projects
 
