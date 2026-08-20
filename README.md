@@ -28,6 +28,7 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 
@@ -35,15 +36,24 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Cloud**
+
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?logo=cloudfoundry&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
 **Testing**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
+![AVA](https://img.shields.io/badge/AVA-4B4B77?logo=ava&logoColor=white)
+![Sinon](https://img.shields.io/badge/Sinon-323330?logo=sinon&logoColor=white)
 
 ## Featured projects
 
