@@ -62,7 +62,7 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 ## GitHub stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-git-master-devconcept1.vercel.app/api?username=devconcept&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" width="327" />
   <img src="https://github-readme-stats-git-master-devconcept1.vercel.app/api/top-langs/?username=devconcept&layout=compact&hide_title=true" alt="Top languages" width="257" />
 </p>
