@@ -73,4 +73,4 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 [![Sponsor](https://img.shields.io/badge/Sponsor-devconcept-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/devconcept)
 ![Profile views](https://komarev.com/ghpvc/?username=devconcept&color=blue)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:56ab2f,100:a8e063&height=120&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=120&section=footer" alt="Footer wave" />
