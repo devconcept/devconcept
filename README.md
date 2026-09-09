@@ -66,5 +66,5 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devconcept-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelbgamez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devconcept-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devconcept/)
 ![Profile views](https://komarev.com/ghpvc/?username=devconcept&color=blue)
