@@ -4,7 +4,20 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/devconcept/devconcept/output/github-snake.svg">
 </picture>
 
-<h1 align="center">Hi, I'm devconcept 👋</h1>
+<div align="center">
+
+```
+     __/\__       _    _ _     _____ _                 _                                          _   
+. _  \\''//      | |  | (_)   |_   _( )               | |                                        | |  
+-( )-/_||_\      | |__| |_      | | |/ _ __ ___     __| | _____   _____ ___  _ __   ___ ___ _ __ | |_ 
+ .'. \_()_/      |  __  | |     | |   | '_ ` _ \   / _` |/ _ \ \ / / __/ _ \| '_ \ / __/ _ \ '_ \| __|
+  |   | . \      | |  | | |_   _| |_  | | | | | | | (_| |  __/\ V / (_| (_) | | | | (_|  __/ |_) | |_ 
+  |   | .  \     |_|  |_|_( ) |_____| |_| |_| |_|  \__,_|\___| \_/ \___\___/|_| |_|\___\___| .__/ \__|
+ .'. ,\_____'.            |/                                                               | |        
+                                                                                           |_|        
+```
+
+</div>
 
 <p align="center">
   <a href="https://github.com/devconcept"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Open+sorcerer+%F0%9F%A7%99;Fullstack+developer;All+things+JavaScript;Now+building+with+AI" alt="Typing SVG" /></a>
