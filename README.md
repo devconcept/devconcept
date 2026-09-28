@@ -75,7 +75,10 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
   <tr>
     <td align="center">
       <a href="https://github.com/devconcept/multer-gridfs-storage">
-        <img src="https://github-stats-extended-xi-seven.vercel.app/api/pin/?username=devconcept&repo=multer-gridfs-storage&show_owner=false" alt="multer-gridfs-storage" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-xi-seven.vercel.app/api/pin/?username=devconcept&amp;repo=multer-gridfs-storage&amp;show_owner=false&amp;theme=github_dark&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;ring_color=58A6FF" />
+          <img src="https://github-stats-extended-xi-seven.vercel.app/api/pin/?username=devconcept&amp;repo=multer-gridfs-storage&amp;show_owner=false&amp;title_color=0575E6&amp;icon_color=0575E6&amp;ring_color=0575E6" alt="multer-gridfs-storage" />
+        </picture>
       </a>
       <br />
       <a href="https://www.npmjs.com/package/multer-gridfs-storage">
@@ -88,8 +91,18 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 ## GitHub stats
 
 <p>
-  <img src="https://github-stats-extended-xi-seven.vercel.app/api?username=devconcept&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" width="327" />
-  <img src="https://github-stats-extended-xi-seven.vercel.app/api/top-langs/?username=devconcept&layout=compact&hide_title=true" alt="Top languages" width="257" />
+  <a href="https://github.com/devconcept?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-xi-seven.vercel.app/api?username=devconcept&amp;show_icons=true&amp;hide_title=true&amp;count_private=true&amp;theme=github_dark&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;ring_color=58A6FF" />
+      <img src="https://github-stats-extended-xi-seven.vercel.app/api?username=devconcept&amp;show_icons=true&amp;hide_title=true&amp;count_private=true&amp;title_color=0575E6&amp;icon_color=0575E6&amp;ring_color=0575E6" alt="GitHub stats" width="327" />
+    </picture>
+  </a>
+  <a href="https://github.com/devconcept?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-xi-seven.vercel.app/api/top-langs/?username=devconcept&amp;layout=compact&amp;hide_title=true&amp;theme=github_dark&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;ring_color=58A6FF" />
+      <img src="https://github-stats-extended-xi-seven.vercel.app/api/top-langs/?username=devconcept&amp;layout=compact&amp;hide_title=true&amp;title_color=0575E6&amp;icon_color=0575E6&amp;ring_color=0575E6" alt="Top languages" width="257" />
+    </picture>
+  </a>
 </p>
 
 ## Connect
