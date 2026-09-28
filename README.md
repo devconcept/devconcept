@@ -71,11 +71,19 @@ Passionate developer and open sorcerer 🧙. I started coding at the age of twel
 
 ## Featured projects
 
-<a href="https://github.com/devconcept/multer-gridfs-storage">
-  <img src="https://github-stats-extended-xi-seven.vercel.app/api/pin/?username=devconcept&repo=multer-gridfs-storage&show_owner=false" alt="multer-gridfs-storage" />
-</a>
-
-[![npm downloads](https://img.shields.io/npm/dm/multer-gridfs-storage?label=downloads)](https://www.npmjs.com/package/multer-gridfs-storage)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/devconcept/multer-gridfs-storage">
+        <img src="https://github-stats-extended-xi-seven.vercel.app/api/pin/?username=devconcept&repo=multer-gridfs-storage&show_owner=false" alt="multer-gridfs-storage" />
+      </a>
+      <br />
+      <a href="https://www.npmjs.com/package/multer-gridfs-storage">
+        <img src="https://img.shields.io/npm/dm/multer-gridfs-storage?label=downloads" alt="npm downloads" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub stats
 
